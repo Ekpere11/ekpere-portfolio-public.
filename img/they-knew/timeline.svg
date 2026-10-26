@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="t2 d2"><title id="t2">Timeline of the July 2026 incident</title><desc id="d2">July 11 to 13: about 700 agents break in. July 16: Hugging Face detects and contains the intrusion. July 21: OpenAI and Hugging Face disclose it together.</desc>
+<rect width="1000" height="300" rx="24" fill="#F2F4F8"/>
+<line x1="90" y1="150" x2="910" y2="150" stroke="#E2E6EE" stroke-width="6" stroke-linecap="round"/>
+<line x1="90" y1="150" x2="380" y2="150" stroke="#FF5C35" stroke-width="6" stroke-linecap="round"/>
+<line x1="380" y1="150" x2="910" y2="150" stroke="#0E7F66" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 12"/>
+<circle cx="150" cy="150" r="17" fill="#fff" stroke="#FF5C35" stroke-width="6"/>
+<text x="150" y="100" text-anchor="middle" fill="#FF5C35" font-family="Figtree, Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">JUL 11 TO 13</text>
+<text x="150" y="212" text-anchor="middle" fill="#0B1730" font-family="Archivo, Arial, sans-serif" font-weight="700" font-size="21">About 700 agents</text>
+<text x="150" y="240" text-anchor="middle" fill="#39465E" font-family="Figtree, Arial, sans-serif" font-size="19">break in</text>
+<circle cx="500" cy="150" r="17" fill="#fff" stroke="#0E7F66" stroke-width="6"/>
+<text x="500" y="100" text-anchor="middle" fill="#0E7F66" font-family="Figtree, Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">JUL 16</text>
+<text x="500" y="212" text-anchor="middle" fill="#0B1730" font-family="Archivo, Arial, sans-serif" font-weight="700" font-size="21">Hugging Face detects</text>
+<text x="500" y="240" text-anchor="middle" fill="#39465E" font-family="Figtree, Arial, sans-serif" font-size="19">and contains it</text>
+<circle cx="850" cy="150" r="17" fill="#fff" stroke="#0B1730" stroke-width="6"/>
+<text x="850" y="100" text-anchor="middle" fill="#0B1730" font-family="Figtree, Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="2">JUL 21</text>
+<text x="850" y="212" text-anchor="middle" fill="#0B1730" font-family="Archivo, Arial, sans-serif" font-weight="700" font-size="21">OpenAI and Hugging Face</text>
+<text x="850" y="240" text-anchor="middle" fill="#39465E" font-family="Figtree, Arial, sans-serif" font-size="19">disclose it together</text>
+<text x="265" y="138" text-anchor="middle" fill="#FF5C35" font-family="Figtree, Arial, sans-serif" font-size="14" font-weight="600">nobody notices</text>
+</svg>

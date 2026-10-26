@@ -382,3 +382,16 @@ footer a { color: var(--ink-2); text-decoration: none; font-weight: 600; }
   .hero-meta { gap: 20px; } .hero-meta b { font-size: 26px; } .hero-meta span { font-size: 13px; }
 }
 [hidden] { display: none !important; }
+
+/* article figures and stat rows (added for "They Knew It Was Wrong") */
+.art-hero { margin-bottom: 28px; }
+.art-fig { margin: 2em 0; }
+.art-fig img { width: 100%; height: auto; border-radius: 20px; }
+.art-fig-hero { margin: 0; }
+.art-fig-hero img { border-radius: 28px; box-shadow: var(--shadow-lg); }
+.stat-row { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 12px; margin: 2em 0 .6em; }
+.stat-row .stat-callout { padding: 22px 20px; }
+.stat-row .stat-callout b { font-size: clamp(30px, 4vw, 40px); }
+.fig-note { font: 500 14px/1.5 var(--f-body); color: var(--muted); }
+.src-list { margin: 8px 0 0; padding-left: 18px; display: grid; gap: 6px; }
+@media (max-width: 640px) { .stat-row { grid-template-columns: 1fr; } }
