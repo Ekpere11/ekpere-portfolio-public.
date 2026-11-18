@@ -2,7 +2,7 @@
 (function () {
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const shots = n => n.map(i => "/img/shot-" + i + ".jpg");
-  const galleries = { reviews: ["/img/review-1.jpg", "/img/review-2.jpg", "/img/review-3.jpg"], certs: ["/img/cert-securiti.jpg", "/img/cert-bluedot.jpg"] };
+  const galleries = { reviews: ["/img/review-1.jpg", "/img/review-2.jpg", "/img/review-3.jpg"], certs: ["/img/cert-securiti.jpg", "/img/cert-bluedot.jpg"], pmcerts: ["/img/cert-capm.jpg"] };
 
   /* tools marquee */
   const tools = [["ClickUp","tool-clickup.png"],["Monday.com","tool-monday.png"],["Asana",null,"AS"],["Trello","tool-trello.jpg"],["Notion","tool-notion.png"],["Jira","tool-jira.jpg"],["Slack","tool-slack.png"],["Google Workspace","tool-gworkspace.png"],["Excel / Sheets",null,"XL"],["HubSpot","tool-hubspot.png"],["Zoho","tool-zoho.jpg"],["HighLevel","tool-highlevel.jpg"],["Canva","tool-canva.jpg"],["Zoom",null,"Z"],["Calendly",null,"CAL"]];
